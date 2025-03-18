@@ -2,3 +2,9 @@ h2 span {
     color: #ecfa00;
     font-size: 1.5em;
   }
+  .Palavraerrada{
+    margin: 100px;
+    text-transform: uppercase;
+    color: #e71919;
+    font-weight: bold; 
+  }
